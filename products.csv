@@ -1,0 +1,8 @@
+item_id,product_name,department_name,price,stock_quantity
+2345,header,Parts,232.43,2
+2346,ECM,Parts,768.34,1
+2347,GPS,Parts,1022.76,3
+2348,RH Bag,Parts,352.98,4
+2349,LH Bag,Parts,352.98,4
+2350,Tour Pak,Parts,2056.77,2
+2351,Jacket,Clothing,402.33,6
